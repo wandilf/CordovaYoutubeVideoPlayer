@@ -62,7 +62,7 @@
                     <source url="https://github.com/CocoaPods/Specs.git"/>
                 </config>
                 <pods use-frameworks="true">
-                    <pod name="XCDYouTubeKit" git="https://github.com/armendh/XCDYouTubeKit.git" />
+                    <pod name="XCDYouTubeKit" git="https://github.com/wandilf/XCDYouTubeKit.git" />
                 </pods>
             </podspec>
             <header-file src="platforms/ios/YoutubeVideoPlayerProject/Plugins/com.bunkerpalace.cordova.YoutubeVideoPlayer/YoutubeVideoPlayer.h"/>
